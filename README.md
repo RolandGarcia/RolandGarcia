@@ -9,6 +9,5 @@ I like Jiujitsu, Motorcycle and
 
 <div>
 <a href="https://github.com/RolandGarcia">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RolandGarcia&layout=compact&langs_count=5&theme=dark&show_icons=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RolandGarcia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
