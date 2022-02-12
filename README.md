@@ -2,7 +2,7 @@
 
 My name is <b> Roland Garcia Viviani </b>
 
-Currently learn code and try be a good Developer one day;,<br>
+Currently learn code and try be a good Developer one day;<br>
 From Brasil/SaoPaulo Living in Japan/Osaka about 20 years;
 
 I like Jiujitsu, Motorcycle and " CODES, Programming, SoftwearDev, Tech and ..."
